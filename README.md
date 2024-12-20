@@ -39,7 +39,3 @@ A responsive clothing store built using HTML, CSS, JavaScript, and Bootstrap. In
 - Bootstrap
 - LocalStorage (for saving cart and wishlist)
 
-## Author
-**Baha Jdidi**
-- **Linkedin**: https://www.linkedin.com/in/bahaeddinejdidi/
-- **Email**: bahajedidi2016@gmail.com
